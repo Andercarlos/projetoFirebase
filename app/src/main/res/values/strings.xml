@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projetoFirebase</string>
+    <string name="botão">Entrar</string>
+    <string name="cadastrar">Não tem conta? Clique aqui.</string>
+
+    <string name="TituloCadastro">Cadastre-se</string>
+    <string name="BotaoCadastro">Cadastrar</string>
+</resources>

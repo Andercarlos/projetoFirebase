@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="containercomponents">
+       <item name="android:layout_height">250dp</item>
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:background">@drawable/conteiner_components</item>
+       <item name="android:layout_margin">20dp</item>
+   </style>
+
+
+    <style name="edit_email_components">
+        <item name="android:maxLength">30</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/edit_text_shape</item>
+        <item name="android:layout_margin">30dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">10dp</item>
+
+         </style>
+
+    <style name="edit_button">
+         <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">05dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="background">@drawable/button_shape</item>
+    </style>
+
+
+
+</resources>
